@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 285.75 285.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="BJT Transistor Schematic Symbols.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#494949"
+     bordercolor="#66ffff"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.40586935"
+     inkscape:cx="-242.68893"
+     inkscape:cy="524.79942"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g12104"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:deskcolor="#494949" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.465;stroke-linejoin:round;stroke-dasharray:1.395, 1.395;paint-order:markers fill stroke"
+       id="rect835"
+       width="306.91669"
+       height="285.75"
+       x="-92.306816"
+       y="-10.371552" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Drawings"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -93.330134,83.980202 H 213.58655"
+       id="path29362"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.76501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -93.330127,173.64747 H 213.58656"
+       id="path67785"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g8786"
+       style="stroke-width:1.3;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(-130.21371)" />
+    <g
+       id="g12285"
+       transform="translate(-225.66052,4.8093224)">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle7447"
+         cx="182.79773"
+         cy="39.441723"
+         r="15.836252"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 181.67615,49.908157 3.10066,-7.276071 3.85081,6.26005 z"
+         id="path7451"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 158.75,39.422915 19.31458,-0.198437"
+         id="path7449"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 177.98991,29.337053 0.19844,21.563542"
+         id="path7453"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 190.75606,49.875335 178.17132,43.477993"
+         id="path7455"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-10.417969"
+         inkscape:transform-center-y="-0.13229167"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 188.86178,29.025393 -11.01786,6.677975"
+         id="path7457"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-10.417969"
+         inkscape:transform-center-y="0.13229167"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 188.41443,17.365743 0.19844,12.038542"
+         id="path7459"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 190.38588,49.299104 0.19843,9.84025"
+         id="path7461"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="150.33315"
+         y="68.346359"
+         id="text7465"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan7463"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="150.33315"
+           y="68.346359"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan20900">EMITTER</tspan> 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="153.65872"
+         y="42.792751"
+         id="text7471"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan7467"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="153.65872"
+           y="42.792751">1</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="153.65872"
+           y="52.744671"
+           id="tspan7469">BASE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="139.48521"
+         y="14.900528"
+         id="text7475"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan7473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="139.48521"
+           y="14.900528">COLLECTOR 2</tspan></text>
+    </g>
+    <g
+       id="g9161"
+       transform="translate(-155.2813,4.8093224)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle9131"
+         cx="190.73512"
+         cy="39.441723"
+         r="15.836252"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 189.6137,49.908157 3.10066,-7.276071 3.85081,6.26005 z"
+         id="path9133"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 166.68755,39.422915 19.31458,-0.198437"
+         id="path9135"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 185.92746,29.337053 0.19844,21.563542"
+         id="path9137"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 198.69361,49.875335 186.10887,43.477993"
+         id="path9139"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-10.417969"
+         inkscape:transform-center-y="-0.13229167"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 196.79933,29.025393 -11.01786,6.677975"
+         id="path9141"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-10.417969"
+         inkscape:transform-center-y="0.13229167"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 196.35198,17.365743 0.19844,12.038542"
+         id="path9143"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 198.32343,49.299104 0.19843,9.84025"
+         id="path9145"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="158.7997"
+         y="68.346359"
+         id="text9149"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan9147"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="158.7997"
+           y="68.346359"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan20300">EMITTER</tspan> 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="161.59612"
+         y="42.792751"
+         id="text9155"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan9151"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="42.792751">2</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="52.744671"
+           id="tspan9153">BASE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="147.42261"
+         y="14.900528"
+         id="text9159"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan9157"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="147.42261"
+           y="14.900528">COLLECTOR 1</tspan></text>
+    </g>
+    <g
+       id="g12471"
+       transform="translate(-78.022937,4.8093224)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2C 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <g
+         id="g14602"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle12441"
+           cx="190.73512"
+           cy="39.441723"
+           r="15.836252"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 189.6137,49.908157 3.10066,-7.276071 3.85081,6.26005 z"
+           id="path12443"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 166.68755,39.422915 19.31458,-0.198437"
+           id="path12445"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 185.92746,29.337053 0.19844,21.563542"
+           id="path12447"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 198.69361,49.875335 186.10887,43.477993"
+           id="path12449"
+           sodipodi:nodetypes="cc"
+           inkscape:transform-center-x="-10.417969"
+           inkscape:transform-center-y="-0.13229167"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 196.79933,29.025393 -11.01786,6.677975"
+           id="path12451"
+           sodipodi:nodetypes="cc"
+           inkscape:transform-center-x="-10.417969"
+           inkscape:transform-center-y="0.13229167"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 196.35198,17.365743 0.19844,12.038542"
+           id="path12453"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <path
+           style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 198.32343,49.299104 0.19843,9.84025"
+           id="path12455"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+           x="158.24231"
+           y="68.214066"
+           id="text12459"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100"><tspan
+             sodipodi:role="line"
+             id="tspan12457"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;stroke:none;stroke-width:0.264583"
+             x="158.24231"
+             y="68.214066"
+             dx="0"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan19526">EMITTER</tspan> 1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="42.792751"
+           id="text12465"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100"><tspan
+             sodipodi:role="line"
+             id="tspan12461"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+             x="161.59612"
+             y="42.792751">3</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+             x="161.59612"
+             y="52.744671"
+             id="tspan12463">BASE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+           x="147.42261"
+           y="14.900528"
+           id="text12469"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100"><tspan
+             sodipodi:role="line"
+             id="tspan12467"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+             x="147.42261"
+             y="14.900528">COLLECTOR 2</tspan></text>
+      </g>
+    </g>
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle21044"
+       cx="188.38307"
+       cy="44.25106"
+       r="15.836252"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 187.26165,54.717488 3.10066,-7.276071 3.85081,6.26005 z"
+       id="path21046"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 164.3355,44.232246 19.31458,-0.198437"
+       id="path21048"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 183.57541,34.146384 0.19844,21.563542"
+       id="path21050"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 196.34156,54.684666 183.75682,48.287324"
+       id="path21052"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-10.417969"
+       inkscape:transform-center-y="-0.13229167"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 194.44728,33.834724 -11.01786,6.677975"
+       id="path21054"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-10.417969"
+       inkscape:transform-center-y="0.13229167"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.99993,22.175074 0.19844,12.038542"
+       id="path21056"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 195.97138,54.108435 0.19843,9.84025"
+       id="path21058"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="155.89026"
+       y="73.023407"
+       id="text21064"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan21062"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;stroke:none;stroke-width:0.264583"
+         x="155.89026"
+         y="73.023407"
+         dx="0"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan21060">EMITTER</tspan> 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="159.24406"
+       y="47.602089"
+       id="text21070"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan21066"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+         x="159.24406"
+         y="47.602089">2</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+         x="159.24406"
+         y="57.554008"
+         id="tspan21068">BASE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="145.07056"
+       y="19.709862"
+       id="text21074"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan21072"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+         x="145.07056"
+         y="19.709862">COLLECTOR 3</tspan></text>
+    <g
+       id="g2450"
+       transform="translate(-225.23833,96.775879)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP  1B 2C 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 188.95155,44.724823 -3.52867,7.078405 -3.47099,-6.478366 z"
+         id="path911"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 177.98991,29.337053 0.19844,21.563542"
+         id="path915"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <g
+         id="g2438">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle909"
+           cx="182.79773"
+           cy="39.441723"
+           r="15.836252"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <g
+           id="g2429">
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 158.75,39.422915 19.31458,-0.198437"
+             id="path913"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 190.75606,49.875335 178.17132,43.477993"
+             id="path917"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="-0.13229167"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100"
+             transform="translate(-1.1875e-6)" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.86178,29.025393 -11.01786,6.677975"
+             id="path919"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="0.13229167"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.41443,17.365743 0.19844,12.038542"
+             id="path921"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 190.38588,49.299104 0.19843,9.84025"
+             id="path923"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="-74.90519"
+       y="165.12181"
+       id="text929"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP  1B 2C 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan927"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+         x="-74.90519"
+         y="165.12181"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan925">EMITTER</tspan> 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="-71.579613"
+       y="139.56822"
+       id="text935"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP  1B 2C 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan931"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+         x="-71.579613"
+         y="139.56822">1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+         x="-71.579613"
+         y="149.52014"
+         id="tspan933">BASE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="-85.75312"
+       y="111.67633"
+       id="text939"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP  1B 2C 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan937"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+         x="-85.75312"
+         y="111.67633">COLLECTOR 2</tspan></text>
+    <g
+       id="g2472"
+       transform="translate(-146.92162,98.892559)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP  1C 2B 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 188.95155,44.724823 -3.52867,7.078405 -3.47099,-6.478366 z"
+         id="path2452"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 177.98991,29.337053 0.19844,21.563542"
+         id="path2454"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <g
+         id="g2470">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle2456"
+           cx="182.79773"
+           cy="39.441723"
+           r="15.836252"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <g
+           id="g2468">
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 158.75,39.422915 19.31458,-0.198437"
+             id="path2458"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 190.75606,49.875335 178.17132,43.477993"
+             id="path2460"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="-0.13229167"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100"
+             transform="translate(-1.1875e-6)" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.86178,29.025393 -11.01786,6.677975"
+             id="path2462"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="0.13229167"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.41443,17.365743 0.19844,12.038542"
+             id="path2464"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 190.38588,49.299104 0.19843,9.84025"
+             id="path2466"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1284"
+       transform="translate(-155.2813,4.8093224)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1252"
+         cx="190.73512"
+         cy="39.441723"
+         r="15.836252"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 189.6137,49.908157 3.10066,-7.276071 3.85081,6.26005 z"
+         id="path1254"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 166.68755,39.422915 19.31458,-0.198437"
+         id="path1256"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 185.92746,29.337053 0.19844,21.563542"
+         id="path1258"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 198.69361,49.875335 186.10887,43.477993"
+         id="path1260"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-10.417969"
+         inkscape:transform-center-y="-0.13229167"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 196.79933,29.025393 -11.01786,6.677975"
+         id="path1262"
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-10.417969"
+         inkscape:transform-center-y="0.13229167"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 196.35198,17.365743 0.19844,12.038542"
+         id="path1264"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 198.32343,49.299104 0.19843,9.84025"
+         id="path1266"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="158.7997"
+         y="68.346359"
+         id="text1272"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan1270"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="158.7997"
+           y="68.346359"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan1268">EMITTER</tspan> 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="161.59612"
+         y="42.792751"
+         id="text1278"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan1274"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="42.792751">2</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="52.744671"
+           id="tspan1276">BASE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="147.42261"
+         y="14.900528"
+         id="text1282"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan1280"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="147.42261"
+           y="14.900528">COLLECTOR 1</tspan></text>
+    </g>
+    <g
+       id="g2182"
+       transform="translate(-156.10487,99.052609)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP  1C 2B 3E.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="158.7997"
+         y="68.346359"
+         id="text2170"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan2168"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="158.7997"
+           y="68.346359"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan2166">EMITTER</tspan> 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="161.59612"
+         y="42.792751"
+         id="text2176"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan2172"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="42.792751">2</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="52.744671"
+           id="tspan2174">BASE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="147.42261"
+         y="14.900528"
+         id="text2180"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan2178"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="147.42261"
+           y="14.900528">COLLECTOR 1</tspan></text>
+    </g>
+    <g
+       id="g2588"
+       transform="translate(-75.112519,100.32397)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP 1E 2C 3B.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <g
+         id="g2586"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1E 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+           x="158.24231"
+           y="68.214066"
+           id="text2574"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100"><tspan
+             sodipodi:role="line"
+             id="tspan2572"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;stroke:none;stroke-width:0.264583"
+             x="158.24231"
+             y="68.214066"
+             dx="0"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan2570">EMITTER</tspan> 1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+           x="161.59612"
+           y="42.792751"
+           id="text2580"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100"><tspan
+             sodipodi:role="line"
+             id="tspan2576"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+             x="161.59612"
+             y="42.792751">3</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+             x="161.59612"
+             y="52.744671"
+             id="tspan2578">BASE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+           x="147.42261"
+           y="14.900528"
+           id="text2584"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1C 2B 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100"><tspan
+             sodipodi:role="line"
+             id="tspan2582"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+             x="147.42261"
+             y="14.900528">COLLECTOR 2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3280"
+       transform="translate(-67.14975,100.88465)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP 1E 2C 3B.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 188.95155,44.724823 -3.52867,7.078405 -3.47099,-6.478366 z"
+         id="path3260"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 177.98991,29.337053 0.19844,21.563542"
+         id="path3262"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <g
+         id="g3278">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3264"
+           cx="182.79773"
+           cy="39.441723"
+           r="15.836252"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <g
+           id="g3276">
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 158.75,39.422915 19.31458,-0.198437"
+             id="path3266"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 190.75606,49.875335 178.17132,43.477993"
+             id="path3268"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="-0.13229167"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100"
+             transform="translate(-1.1875e-6)" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.86178,29.025393 -11.01786,6.677975"
+             id="path3270"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="0.13229167"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.41443,17.365743 0.19844,12.038542"
+             id="path3272"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 190.38588,49.299104 0.19843,9.84025"
+             id="path3274"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="157.81042"
+       y="168.00845"
+       id="text3302"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3300"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0.105833px;stroke:none;stroke-width:0.264583"
+         x="157.81042"
+         y="168.00845"
+         dx="0"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan3298">EMITTER</tspan> 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="161.16422"
+       y="142.58714"
+       id="text3308"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3304"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+         x="161.16422"
+         y="142.58714">2</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+         x="161.16422"
+         y="152.53906"
+         id="tspan3306">BASE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+       x="146.99072"
+       y="114.69524"
+       id="text3312"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3310"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+         x="146.99072"
+         y="114.69524">COLLECTOR 3</tspan></text>
+    <g
+       id="g3974"
+       transform="translate(7.2705861,100.35552)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\PNP 1E 2B 3C.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 188.95155,44.724823 -3.52867,7.078405 -3.47099,-6.478366 z"
+         id="path3954"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 177.98991,29.337053 0.19844,21.563542"
+         id="path3956"
+         sodipodi:nodetypes="cc"
+         transform="translate(-1.1875e-6)"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+      <g
+         id="g3972">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3958"
+           cx="182.79773"
+           cy="39.441723"
+           r="15.836252"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+        <g
+           id="g3970">
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 158.75,39.422915 19.31458,-0.198437"
+             id="path3960"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 190.75606,49.875335 178.17132,43.477993"
+             id="path3962"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="-0.13229167"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100"
+             transform="translate(-1.1875e-6)" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.86178,29.025393 -11.01786,6.677975"
+             id="path3964"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-10.417969"
+             inkscape:transform-center-y="0.13229167"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 188.41443,17.365743 0.19844,12.038542"
+             id="path3966"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 190.38588,49.299104 0.19843,9.84025"
+             id="path3968"
+             sodipodi:nodetypes="cc"
+             transform="translate(-1.1875e-6)"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.2751px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;fill:#000000;stroke-width:0.264582"
+       x="20.825907"
+       y="2.5303936"
+       id="text4174"><tspan
+         sodipodi:role="line"
+         id="tspan4172"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;stroke-width:0.264582"
+         x="20.825907"
+         y="2.5303936">NPN Transistors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.2751px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;fill:#000000;stroke-width:0.264582"
+       x="22.163988"
+       y="96.077026"
+       id="text5258"><tspan
+         sodipodi:role="line"
+         id="tspan5256"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;stroke-width:0.264582"
+         x="22.163988"
+         y="96.077026">PNP Transistors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.2751px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;fill:#000000;stroke-width:0.264582"
+       x="44.945946"
+       y="186.03816"
+       id="text5928"><tspan
+         sodipodi:role="line"
+         id="tspan5926"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;stroke-width:0.264582"
+         x="44.945946"
+         y="186.03816">Others</tspan></text>
+    <g
+       id="g12104"
+       transform="translate(-85.601185,0.32594643)"
+       inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <g
+         id="g6961"
+         transform="matrix(0.73924312,0,0,0.73998183,-80.433775,203.98969)"
+         style="stroke:#000000;stroke-width:1.35206"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.357732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 182.0344,49.687918 1.94324,-5.844515 4.64998,5.048733 z"
+           id="path6914"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+      </g>
+      <g
+         id="g7154"
+         transform="translate(-39.824312,200.1997)"
+         style="stroke:#000000"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100">
+        <g
+           id="g6955"
+           style="display:inline;stroke:#000000"
+           transform="translate(-93.330135,-8.9490116)">
+          <circle
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-miterlimit:4;stroke-dasharray:none"
+             id="circle6912"
+             cx="182.79773"
+             cy="39.441723"
+             r="15.836252"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 192.69869,37.078806 -8.29552,4.125107"
+             id="path6920"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-6.8672455"
+             inkscape:transform-center-y="0.085303446"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 193.12616,49.346537 -8.91998,-3.58427"
+             id="path7965"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="4.1825739"
+             inkscape:transform-center-y="-1.4692976"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+        </g>
+        <g
+           id="g6951"
+           style="stroke:#000000">
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 66.135476,30.473904 12.00615,-0.198437"
+             id="path6916"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 78.129196,23.744062 0.0986,12.682135"
+             id="path6918"
+             sodipodi:nodetypes="cc"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 85.358078,22.872185 -7.196406,5.048982"
+             id="path6922"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="3.4673855"
+             inkscape:transform-center-y="2.4327099"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.29999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 98.743146,11.874536 0.19844,16.7045"
+             id="path6924"
+             sodipodi:nodetypes="cc"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 99.360536,39.994379 0.19843,11.082541"
+             id="path6926"
+             sodipodi:nodetypes="cc"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 98.907486,22.860568 -13.95025,0.105439"
+             id="path7156"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-9.752573"
+             inkscape:transform-center-y="3.5779049"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 85.408626,34.731244 -7.40401,-2.695003"
+             id="path7609"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-6.2916219"
+             inkscape:transform-center-y="-1.2317272"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 91.189496,34.747061 -6.00383,-0.04442"
+             id="path7611"
+             sodipodi:nodetypes="cc"
+             inkscape:transform-center-x="-4.1981274"
+             inkscape:transform-center-y="-3.2784047"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="display:inline;fill:none;stroke:#000000;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 90.971406,28.591059 0.0986,12.485702"
+             id="path7963"
+             sodipodi:nodetypes="cc"
+             inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="19.824533"
+         y="260.12625"
+         id="text6932"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan6930"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="19.824533"
+           y="260.12625"><tspan
+   style="letter-spacing:0.105833px"
+   id="tspan6928">EMITTER</tspan> 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.05;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="20.504282"
+         y="234.04337"
+         id="text6938"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan6934"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="20.504282"
+           y="234.04337">2</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.264583"
+           x="20.504282"
+           y="243.99529"
+           id="tspan6936">BASE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.47802px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';word-spacing:0px;display:inline;stroke:none;stroke-width:0.264583"
+         x="8.9766026"
+         y="208.79695"
+         id="text6942"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100"><tspan
+           sodipodi:role="line"
+           id="tspan6940"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';stroke:none;stroke-width:0.264583"
+           x="8.9766026"
+           y="208.79695">COLLECTOR 1</tspan></text>
+      <g
+         id="g7525"
+         transform="matrix(0.79118837,0,0,0.79257388,-103.65567,196.18031)"
+         style="stroke:#000000;stroke-width:1.26282"
+         inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbols\NPN Darlington Transistor.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.33412px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 182.0344,49.687918 1.94324,-5.844515 4.64998,5.048733 z"
+           id="path7523"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="D:\Engineering\Hardware Info\Electronic Components\BJT Transistors\Schematic Symbol\NPN 1B 2C 3E.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100" />
+      </g>
+    </g>
+  </g>
+</svg>
